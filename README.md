@@ -1,8 +1,8 @@
-#Visitor Management System
-##Overview
+# Visitor Management System
+## Overview
 The Visitor Management System (VMS) is a web-based application developed using PHP, designed to streamline and manage the process of visitor registration, check-in, and check-out. This system allows organizations to maintain a record of visitors, enhance security, and improve the overall visitor experience.
 
-##Features
+## Features
 <ul>
 <li><Visitor Registration: Allows visitors to pre-register or register upon arrival./li>
 <li>Check-In and Check-Out: Simple interface for visitors to check in and out.</li>
@@ -10,7 +10,7 @@ The Visitor Management System (VMS) is a web-based application developed using P
 
 <li>Admin Panel: Manage users, visitors, and system settings.</li>
  </ul>
-###Prerequisites
+### Prerequisites
 Web Server: Apache, Nginx, or any other web server supporting PHP
 PHP: Version 7.4 or higher
 Database: MySQL or MariaDB
