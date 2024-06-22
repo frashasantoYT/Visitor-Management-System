@@ -4,17 +4,18 @@ The Visitor Management System (VMS) is a web-based application developed using P
 
 ## Features
 <ul>
-<li><Visitor Registration: Allows visitors to pre-register or register upon arrival./li>
+<li>Visitor Registration: Allows visitors to pre-register or register upon arrival</li>
 <li>Check-In and Check-Out: Simple interface for visitors to check in and out.</li>
 <li>Visitor Log Management: View and manage logs of all visitor activities.</li>
 
 <li>Admin Panel: Manage users, visitors, and system settings.</li>
  </ul>
+ 
 ### Prerequisites
-Web Server: Apache, Nginx, or any other web server supporting PHP
-PHP: Version 7.4 or higher
-Database: MySQL or MariaDB
-Browser: Modern web browser (Chrome, Firefox, Edge, etc.)
+- **Web Server:** Apache, Nginx, or any other web server supporting PHP
+- **PHP:** Version 7.4 or higher
+- **Database:** MySQL or MariaDB
+- **Browser:** Modern web browser (Chrome, Firefox, Edge, etc.)
 
 ### Installation 
 1. Clone the repository
@@ -33,10 +34,11 @@ mysql -u username -p password visitor_management < visitor_management.sql
 ```
 3. Usage
 ### Admin Panel
-Access the admin panel at localhost/Vistor-Management-System/public/
-Log in with the default credentials:
-Username: admin
-Password: admin123
+
+- Access the admin panel at `http://localhost/Visitor-Management-System/public/`
+- Log in with the default credentials:
+  - **Username:** admin
+  - **Password:** admin123
 
 ### LICENSE 
 ```sh
